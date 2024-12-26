@@ -23,16 +23,20 @@ This is a simple voice assistant built using Python. It can perform various task
    git clone https://github.com/Revathi806/voice-assistant.git
 
 2. Navigate to the project directory
+   '''bash
    cd voice-assistant
 
-3. (Optional) Create a virtual environment
+4. (Optional) Create a virtual environment
+   '''bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-4. Install the required packages
+6. Install the required packages
+   '''bash
    pip install -r requirements.txt
 
-5. Run the application
+8. Run the application
+   '''bash
    python voice.py
 
 ## Usage
